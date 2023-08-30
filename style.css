@@ -1,3 +1,16 @@
 .mt-45 {
   margin-top: 45px;
 }
+.jumbotron {
+  padding-top: 4rem;
+}
+
+footer {
+  position: relative;
+  top: 80px;
+}
+
+.svg {
+  position: relative;
+  top: 80px;
+}
